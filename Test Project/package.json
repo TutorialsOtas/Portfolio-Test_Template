@@ -1,0 +1,9 @@
+{
+  "name": "portfolio-site",
+  "version": "1.0.0",
+  "description": "Animated portfolio with Node backend for contact messages",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
